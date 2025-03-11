@@ -1,0 +1,23 @@
+audio_filepath,image_filepath,Speech to Text,Doctor's Response,Doctor's Voice Response,timestamp
+,,,,,2025-03-10 20:08:49.606533
+.gradio\flagged\audio_filepath\51a0f8542d95693b0a35\audio.wav,.gradio\flagged\image_filepath\f5325b68020e2debf668\acne.jpg.png, There's something wrong with my face.,"With what I see, I think you have acne. While it's just a personal opinion, I do believe you have multiple follicles on your face with inflamed pores, possibly resulting in painful red bumps surrounded by a red, swollen appearance. Consult a dermatologist to prescribe medication to control it, possible topical/ oral antibiotics to reduce pimples and help prevent future breakouts, an over the counter skincare product containing salicylic acid, benzoyl peroxide, or sulfur, to clean, clear, and combat blemishes and breakouts, also over the counter retinol to prevent acne severity. However note that these suggestions should not be taken as a substitute for the advice of a dermatologist.",,2025-03-10 20:18:49.523462
+.gradio\flagged\audio_filepath\1e0cc63a41215d4ff8e0\audio.wav,.gradio\flagged\image_filepath\29ac55b2c086fcea73a1\png, Is something wrong with my face?,"With what you have shown me, I think you have a dark shadow under your eyes, which could be due to fatigue, lack of sleep, or possibly even a medical condition like hypothyroidism. However, it's important to note that without further examination or information, it's difficult to make a definitive diagnosis, and I would recommended consulting a doctor for a proper evaluation and treatment.",,2025-03-10 20:22:02.083295
+.gradio\flagged\audio_filepath\1d4ae453966ffdb7a883\audio.wav,.gradio\flagged\image_filepath\c1288fe7e555d812d7f0\Screenshot 2025-03-10 202300.png," Hi, is something wrong with my toe? Actually I got into an injury and there was blood everywhere.","With what you've shared, I think you may have a toenail subungual hematoma, which is a collection of blood under the toenail that can be caused by trauma to the toe. This can be treated with simple remedies such as elevating the affected foot, applying ice to reduce swelling, and using pain medication as needed.",,2025-03-10 21:27:34.166791
+.gradio\flagged\audio_filepath\dd725fd64d0bedbe10b6\audio.wav,.gradio\flagged\image_filepath\9bfa315ff5bcac737b9c\Screenshot 2025-03-10 202300.png," Hi, is something wrong with my toe? Actually I got into an injury and there was blood everywhere.","With what you've shared, I think you may have a toenail subungual hematoma, which is a collection of blood under the toenail that can be caused by trauma to the toe. This can be treated with simple remedies such as elevating the affected foot, applying ice to reduce swelling, and using pain medication as needed.",,2025-03-10 21:27:44.523036
+.gradio\flagged\audio_filepath\c42094a15d52ad4d4de3\audio.wav,.gradio\flagged\image_filepath\6891108955faf47a661c\acne.jpg.png, What's wrong with my face?,"With what I see, I think you have acne, which is a common skin condition characterized by the presence of blackheads, whiteheads, and red, inflamed bumps on the face, chest, and back. 
+
+Acne could be associated with following causes:
+
+*   **Hormonal fluctuations**: Increased androgen levels during puberty, menopause, or pregnancy can stimulate oil production in the pores, leading to bacterial overgrowth and inflammation.
+
+*   **Stress and anxiety**: Elevated stress hormones can worsen acne and trigger flare-ups.
+
+*   **Dietary factors**: Consuming dairy products and foods high in processed sugar contribute to increased inflammation and oil production in the skin.
+
+*   **Insufficient sleep**: Inadequate sleep can lead to stress and hormonal imbalances, exacerbating acne.
+
+Some remedies include:
+*   Maintaining a consistent skincare routine with gentle cleansers, using non-comedogenic products, and avoiding picking or popping pimples. 
+*   Incorporating antioxidant-rich foods in your diet, such as berries, leafy greens, and nuts, to help reduce inflammation.
+*   Practicing relaxation techniques like meditation and deep breathing to manage stress. 
+*   Ensuring adequate sleep each night, aiming for at least 7-8 hours.",,2025-03-11 11:44:25.466274
