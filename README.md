@@ -10,8 +10,7 @@
 ---
 
 ## 🌐 Demo
-🔗 **[Live Demo](your_deployed_url_here)**  
-*(Replace `your_deployed_url_here` with the actual URL after deployment.)*
+🔗 **[Live Demo](https://ai-doctor-with-audio-and-vision-1.onrender.com/)**  
 
 ---
 
