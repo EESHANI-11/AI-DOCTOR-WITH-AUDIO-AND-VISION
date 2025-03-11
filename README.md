@@ -23,19 +23,19 @@ Follow these steps to run the project locally.
 git clone https://github.com/EESHANI-11/AI-DOCTOR-WITH-AUDIO-AND-VISION.git
 cd AI-DOCTOR-WITH-AUDIO-AND-VISION
 ```
-###**2️⃣ Create a Virtual Environment (Optional)**
+### **2️⃣ Create a Virtual Environment (Optional)**
 ```bash
 python -m venv venv
 source venv/bin/activate  # Mac/Linux
 venv\Scripts\activate     # Windows
 ```
-###**3️⃣ Install Dependencies**
+### **3️⃣ Install Dependencies**
 ```bash
 pip install -r requirements.txt
 ```
 
 
-###**4️⃣ Add API Keys**
+### **4️⃣ Add API Keys**
 Create a .env file and add the following keys:
 ```bash
 GROQ_API_KEY=your_groq_api_key
@@ -45,7 +45,7 @@ GROQ_API_KEY=your_groq_api_key
 
 
 
-###**🔗 Credits & Acknowledgments**
+### **🔗 Credits & Acknowledgments**
 **Built by EESHANI using:**
 
 Gradio for UI
